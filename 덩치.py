@@ -1,6 +1,5 @@
 from array import array
 
-
 num = int(input())
 d_list = []
 result = [1 for i in range(num)]
