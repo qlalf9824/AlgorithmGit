@@ -8,7 +8,6 @@ for i in range(num):
     info = list(map(int, input().split()))
     d_list.append(info)
 
-
 for i in range(num):
     for j in d_list:
         if(d_list[i][0] < j[0] and d_list[i][1] < j[1]):
